@@ -30,13 +30,6 @@
 
 ---
 
-## 💗 How to Reach Me
-
-📧 shelleyl.sesante@gmail.com 
-💼 linkedin.com/in/shelleysesante
-🌐 waitlangkase.com  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DBA&height=120&section=footer"/>
