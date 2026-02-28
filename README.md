@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=800&color=F78DBA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shelley+%F0%9F%91%8B" />
+</h1>
 
-<!--
-**shelley-ses/shelley-ses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ Full-Stack Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💗 Who Am I?
+
+🎓 IT student passionate about creating systems  
+💻 Experienced with desktop and web applications, from PySide6/Qt GUIs to Laravel & Tailwind web apps  
+🚀 Focused on creating scalable, real-world solutions  
+
+---
+
+## 💗 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,cpp,cs,php,laravel,postgres,mysql,sqlite,git,github,vscode" />
+</p>
+
+**Frontend:** HTML • CSS • Tailwind • JavaScript  
+**Backend:** PHP • Laravel  
+**Languages:** Python • C++ • C#  
+**Databases:** PostgreSQL • MSSQL • SQLite • Supabase  
+**Desktop Development:** PySide6 • Qt GUI Design  
+
+---
+
+## 💗 How to Reach Me
+
+📧 shelleyl.sesante@gmail.com 
+💼 linkedin.com/in/shelleysesante
+🌐 waitlangkase.com  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DBA&height=120&section=footer"/>
+</p>
