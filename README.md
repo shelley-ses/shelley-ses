@@ -10,8 +10,7 @@
 
 ## 💗 Who Am I?
 
-🎓 IT student passionate about creating systems  
-💻 Experienced with desktop and web applications, from PySide6/Qt GUIs to Laravel & Tailwind web apps  
+🎓 3rd year IT student passionate about creating systems  
 🚀 Focused on creating scalable, real-world solutions  
 
 ---
