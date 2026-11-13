@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
- IT Student
+Software Developer | Full-Stack Development | Laravel, Python & AI/ML
 </p>
 
 ---
 
 ## 💗 Who Am I?
 
-🎓 3rd year IT student passionate about creating systems  
+🎓 4th year IT student passionate about creating systems  
 🚀 Focused on creating scalable, real-world solutions  
 
 ---
@@ -21,11 +21,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,cpp,cs,php,laravel,postgres,mysql,sqlite,git,github,vscode" />
 </p>
 
-**Frontend:** HTML • CSS • Tailwind • JavaScript  
-**Backend:** PHP • Laravel  
-**Languages:** Python • C++ • C#  
-**Databases:** PostgreSQL • MSSQL • SQLite • Supabase  
-**Desktop Development:** PySide6 • Qt GUI Design  
+**Frontend:** JavaScript • TypeScript • React • Next.js • Tailwind CSS
+**Backend:** PHP • Laravel • Python • FastAPI • Node.js • REST APIs 
+**Languages:** Python • C++ • C# • JavaScript • TypeScript • PHP
+**Databases:** PostgreSQL • Microsoft SQL Server • SQLite • MySQL • Supabase
+**Cloud & Deployment:** Microsoft Azure • DigitalOcean
+**Mobile Development:** React Native • FlutterFlow
+**Desktop Development:** PySide6 • Qt Designer • Windows Forms (WinForms)
+**AI & Machine Learning:** PyTorch • TensorFlow • Keras • YOLOv11 • Roboflow • Computer Vision • Object Detection
 
 ---
 
